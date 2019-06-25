@@ -483,8 +483,4 @@ The second is a bit more involved. It checks every minute to see if my iPhone's 
 This is done using a bash script I wrote called [BT-AutoDisplay](https://github.com/drippyer/BT-AutoDisplay). In order to get BT-AutoDisplay to work, I installed [bluetooth-proximity](https://github.com/ewenchou/bluetooth-proximity), a python script for the actual proximity part (y'know, the hard stuff). I do this as a way to try to extend the life of my monitor automatically without purchasing any additional hardware, like a PIR sensor (although I am considering getting one and using both in conjunction). 
 ________________
 
-That's everything!!
-
-Hope you found this useful and informative! Let me know if you have any questions by opening an issue here, replying to the reddit thread this is posted from, or [PM'ing me on reddit](https://www.reddit.com/message/compose/?to=drippyer&subject=[StatusBoard]:)
-
 Enjoy and have a great day!
